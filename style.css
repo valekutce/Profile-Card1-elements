@@ -125,30 +125,11 @@ body {
 }
 
 
-/* @media (max-width: 1024px){
-  .testimonials{
-    padding: 50px 7%;
-  }
-}
-
-@media (max-width: 768px) {
-  .testimonials{
-    padding: 50px 3%;
-  }
-  .cards {
-    grid-gap: 15px;
-  }
-}
-@media (max-width: 425px){
-  .cards {
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .testimonials::after, .testimonials::before{
-    top: -5px;
-  }
-}
 @media (max-width: 375px){
-.about_section{
-  padding: 50px 4%;
+  .main{
+    padding: 30px 0;
+  }
+  .container .card{
+    margin: 15px 0;
+  }
 }
-} */
